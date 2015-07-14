@@ -433,5 +433,30 @@ td,
 th {
   padding: 0;
 }
-</body>
-</html
+
+/**
+  ***Hanna's Coding***
+*/
+body{
+  background-color: LightGray;
+}
+
+div{
+  border: 1px solid Chocolate;
+}
+
+.top-navigation{
+  background-color: #fff;
+}
+
+.top-navigation > .content {
+  width: 970px;
+  height: 70px;
+  margin: 0 auto;
+}
+
+.content{
+  margin-left: 14px;
+  height: 70px;
+}
+</html>
